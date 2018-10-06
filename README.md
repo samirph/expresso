@@ -2,6 +2,8 @@
 
 > Nuxt.js project
 
+This is a sample project I created to test Nuxt with Apollo and Actioncable and report the result of that experiment to our company.
+
 ## Build Setup
 
 ``` bash
